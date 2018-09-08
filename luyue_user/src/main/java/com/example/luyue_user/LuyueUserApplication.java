@@ -1,0 +1,12 @@
+package com.example.luyue_user;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LuyueUserApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LuyueUserApplication.class, args);
+	}
+}
